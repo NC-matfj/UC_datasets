@@ -1,0 +1,98 @@
+ID,Description,Risky
+04051019,Butter,0
+04069021,Cheese,0
+07020000,Fresh tomatoes,0
+07070005,Cucumbers,0
+07096010,Sweet peppers,0
+08051022,Oranges,0
+08052010,Clementines,0
+08061010,Fresh grapes,0
+08081090,Fresh apples,0
+09012100,Roasted coffee,0
+15119099,Vegetable oils,0
+16010099,Sausages,0
+18069031,Chocolate,0
+19059070,Baked goods,0
+20097199,Apple juice,0
+22021000,Flavored water,0
+22029919,Non-alcoholic beverages,0
+22042178,Wine bottles,0
+22083071,Whisky bottles,0
+27090090,Petroleum oils,0
+29333999,Heterocyclic compounds,0
+30041000,Antibiotics,1
+30042000,Other antibiotics,1
+30043100,Insulin,1
+30043200,Adrenal cortex hormones,1
+30043900,Other hormones,1
+30044100,Ephedrine medications,1
+30044200,Corticosteroid medications,1
+30044300,Antimalarial medications,1
+30045000,Vitamin preparations,1
+30046000,Antimalarial active ingredients,1
+30049000,Other medicaments,1
+33030010,Perfumes,0
+33049900,Beauty products,0
+33051000,Shampoo,0
+33061000,Dentifrices,0
+33072000,Deodorants,0
+39269097,Plastic articles,0
+42022100,Designer handbags with outer surface of leather,1
+42022210,Handbags with outer surface of plastic sheeting,1
+42022290,Designer handbags with textile outer surface,1
+44071190,Coniferous wood,0
+48025590,Paper,0
+48191000,Cardboard boxes,0
+49019900,Printed books,0
+49030000,Children's books,0
+49111090,Printed matter,0
+61091000,Cotton T-shirts,0
+61103099,Sweaters and pullovers,0
+61159500,Cotton socks,0
+62034231,Denim trousers,0
+62052000,Men's shirts of cotton,0
+62064000,Women's blouses,0
+62111100,Swimwear,0
+63022100,Bed linen,0
+63026000,Kitchen linen,0
+64039998,Leather footwear,0
+65050030,Caps and hats,0
+69111000,Porcelain tableware,0
+69120023,Ceramic tableware,0
+70134999,Glassware,0
+71131900,Gold jewelry,0
+72104900,Flat-rolled iron,0
+73239300,Stainless steel kitchenware,0
+82119200,Kitchen knives,1
+84713000,Laptop computers,0
+85044030,Power adapters,0
+85081100,Vacuum cleaners,0
+85102000,Hair clippers,0
+85166090,Electric ovens,0
+85167100,Coffee makers,0
+85171200,Smartphones,0
+85182100,Loudspeakers,0
+85287240,LCD televisions,0
+85423100,Electronic processors,0
+90181100,Electrocardiographs,0
+90183110,Syringes,0
+90189084,Medical instruments,0
+90221400,Medical X-ray apparatus,0
+90318080,Measuring instruments,0
+91011100,Luxury watches,0
+94016100,Upholstered chairs,0
+94035000,Bedroom furniture,0
+94036090,Wooden furniture,0
+94037000,Plastic furniture,0
+94054099,Electric lamps,0
+95030095,Plastic toys,1
+95043020,Video game consoles,0
+95049080,Board games,0
+95061900,Winter sports equipment,0
+95063100,Golf clubs,0
+95065100,Tennis rackets,0
+95066200,Inflatable balls,0
+95069190,Gym equipment,0
+96082000,Felt-tipped pens,0
+96084000,Mechanical pencils,0
+96091010,Pencils,0
