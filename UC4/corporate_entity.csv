@@ -1,0 +1,501 @@
+UID,tax_identification_number,legal_form_code,industry,entity_size_code,legal_name,location,location_code,incorporation_date,listed_entity_flag,last_updated,compliance
+GR0000000001,786579303,OE,Agriculture and Food Production,S,Hestia Organic OE,Arkadia,N1020,2007-03-28,False,2024-03-08 09:11:27,Compliant
+GR0000000002,219540831,AT,Tourism and Hospitality,M,Pneuma Mythos Journey,Chalkidiki,N0270,2003-08-25,False,2024-08-17 16:35:32,Compliant
+GR0000000003,126855092,AE,Healthcare,S,Olympian Therapeutic Surgeons AE,Kyklades,N1210,2000-01-19,False,2024-07-27 09:01:05,Compliant
+GR0000000004,896233790,AT,Healthcare,M,Therapeutic Kairos Rehabilitation,West Attica,N0940,2009-10-30,False,2024-06-30 16:05:38,Compliant
+GR0000000005,395310485,IKE,Energy,S,Helios Chronos IKE,Drama,N0110,2002-04-15,False,2024-11-02 13:55:24,Compliant
+GR0000000006,362950628,AT,Technology and Innovation,S,Nomos Helios Matrix,East Attica,N0930,2015-08-01,False,2024-01-07 12:26:24,Non-Compliant
+GR0000000007,339670711,AT,Technology and Innovation,M,Quantum Chronos,Kefallonia,N0630,2024-01-29,True,2024-02-13 16:57:15,Compliant
+GR0000000008,249827706,AE,Manufacturing,M,Forge Developers AE,Kastoria,N0320,2006-07-16,False,2024-10-19 16:10:43,Compliant
+GR0000000009,890779946,EPE,Logistics and Transportation,L,Junction Bridge Transit EPE,Kastoria,N0320,2003-05-08,False,2024-07-13 10:08:17,Compliant
+GR0000000010,210053353,AE,Energy,M,Sophia Renewable AE,Kyklades,N1210,1995-08-18,True,2024-06-03 12:31:09,Compliant
+GR0000000011,826600539,AT,Manufacturing,S,Craftsmanship Fabrication Koinonia,Trikala,N0540,2010-02-13,False,2024-02-02 10:27:17,Non-Compliant
+GR0000000012,895285932,AE,Logistics and Transportation,S,Track Terminal Depot AE,Heraklio,N1310,2008-03-25,False,2024-08-03 12:30:50,Somewhat Compliant
+GR0000000013,685582861,OE,Logistics and Transportation,S,Chain Psyche OE,Peiraias and islands,N0920,2020-06-19,False,2024-02-09 13:16:15,Compliant
+GR0000000014,193349856,AE,Consumer Goods and Retail,S,Merchant Greek Kosmos AE,Grevena,N0310,2003-08-30,False,2024-11-16 15:38:39,Somewhat Compliant
+GR0000000015,734036506,OE,Technology and Innovation,M,Aion Dynamic Data OE,Ioannina,N0430,2002-11-14,False,2024-04-10 15:06:08,Compliant
+GR0000000016,553035110,IKE,Healthcare,M,Solutions Treatment IKE,Aitoloakarnania,N0710,2022-05-27,False,2024-06-04 08:25:21,Compliant
+GR0000000017,134126396,AT,Financial Services,M,Asset Mediterranean Mythos,Dodekanisa,N1220,2023-08-25,False,2024-11-13 14:51:55,Compliant
+GR0000000018,131994523,AT,Technology and Innovation,M,Secure Innovative Sophia,Mesinia,N1050,2013-03-09,False,2024-06-17 15:21:27,Compliant
+GR0000000019,200604502,EPE,Automotive,S,Polis Pneuma EPE,Euritania,N0830,2014-03-08,False,2024-11-29 17:08:19,Somewhat Compliant
+GR0000000020,334760738,AT,Financial Services,L,Consultant Banking,Achaia,N0720,2018-02-10,False,2024-06-13 17:44:12,Somewhat Compliant
+GR0000000021,349817734,AT,Tourism and Hospitality,L,Tourism Gaia Hestia,Evros,N0120,2009-09-15,False,2024-09-02 13:11:25,Compliant
+GR0000000022,642621108,AE,Energy,M,Techne Episteme AE,Arkadia,N1020,1998-11-21,False,2024-06-12 12:47:44,Compliant
+GR0000000023,746412689,IKE,Agriculture and Food Production,M,Pathos Ethos IKE,Euritania,N0830,2012-12-23,False,2024-11-20 15:36:50,Somewhat Compliant
+GR0000000024,128492780,AT,Automotive,M,Ethos Ecclesia,Zakynthos,N0610,1999-04-11,False,2024-05-04 13:24:17,Somewhat Compliant
+GR0000000025,702632297,IKE,Healthcare,S,Psyche Arete Nous IKE,Magnisia,N0530,2003-04-15,False,2024-07-20 13:07:59,Compliant
+GR0000000026,313500298,IKE,Energy,S,Kalon Olympian Natural IKE,Lesvos,N1110,2001-04-21,False,2024-10-15 11:37:34,Compliant
+GR0000000027,868820204,OE,Tourism and Hospitality,M,Nous Retreat Onoma OE,Lakonia,N1040,2016-05-31,False,2024-04-02 16:01:46,Compliant
+GR0000000028,797808098,EPE,Financial Services,S,Techne Demos Finance EPE,Grevena,N0310,2009-07-06,False,2024-08-24 11:28:51,Compliant
+GR0000000029,853041955,EPE,Agriculture and Food Production,S,Pure Grains Episteme EPE,Lefkada,N0640,2006-02-15,False,2024-05-29 09:52:54,Compliant
+GR0000000030,685126461,EPE,Agriculture and Food Production,S,Xenia Dynamis Dairy EPE,Pella,N0240,1995-04-21,False,2024-07-28 15:08:40,Compliant
+GR0000000031,550455977,AT,Automotive,M,Performance Athens Designs,Preveza,N0440,2006-09-11,False,2024-06-04 11:16:42,Compliant
+GR0000000032,336696312,AE,Automotive,L,Hermes Parts Logos AE,Korinthos,N1030,2012-03-15,True,2024-03-19 14:50:24,Compliant
+GR0000000033,582334538,AT,Financial Services,L,Dividend Fiscal,Arkadia,N1020,2005-07-24,True,2024-02-07 15:38:30,Compliant
+GR0000000034,732719211,AT,Agriculture and Food Production,M,Harvest Nutrition,Kozani,N0330,2015-01-14,False,2024-10-25 14:34:32,Compliant
+GR0000000035,398704996,AT,Manufacturing,L,Paideia Marathon Koinonia,Trikala,N0540,2006-12-22,False,2024-12-20 14:34:02,Compliant
+GR0000000036,969119330,AE,Healthcare,M,Zoe Mythos Preventive AE,Zakynthos,N0610,2009-10-13,False,2024-07-03 16:38:40,Compliant
+GR0000000037,106977991,IKE,Healthcare,S,Aion Nous Development IKE,Drama,N0110,2008-07-17,False,2024-02-13 09:49:15,Compliant
+GR0000000038,914763202,IKE,Technology and Innovation,S,Praxis Tech IKE,Grevena,N0310,2021-02-15,False,2024-12-02 13:10:41,Compliant
+GR0000000039,965241839,AT,Healthcare,S,Agora Pharmacy,Rodopi,N0150,2020-09-11,False,2024-11-09 08:36:41,Somewhat Compliant
+GR0000000040,271432881,IKE,Manufacturing,L,Agon Episteme IKE,Kozani,N0330,1995-07-06,True,2024-12-12 14:48:21,Compliant
+GR0000000041,849621470,AT,Healthcare,S,Hestia Development,Fthiotida,N0840,2006-09-24,False,2024-08-08 09:00:06,Compliant
+GR0000000042,553778756,OE,Financial Services,M,Oikos Hermes OE,West Attica,N0940,2024-04-26,False,2024-05-12 11:32:47,Compliant
+GR0000000043,465341213,IKE,Financial Services,M,Agon Ecclesia Mythos IKE,Drama,N0110,2011-02-15,False,2024-09-22 16:37:44,Compliant
+GR0000000044,398362082,AT,Logistics and Transportation,M,Episteme Theoria Archon,Chalkidiki,N0270,2005-08-06,False,2024-10-21 11:28:23,Compliant
+GR0000000045,266944844,AT,Agriculture and Food Production,S,Kalon Energeia Field,Viotia,N0810,1997-10-13,False,2024-07-19 15:49:43,Compliant
+GR0000000046,331191390,IKE,Automotive,M,Xenia Solutions Components IKE,West Attica,N0940,2024-12-14,True,2024-10-28 16:09:22,Compliant
+GR0000000047,919795579,AT,Agriculture and Food Production,L,Ecclesia Agon Fishery,Heraklio,N1310,2000-04-19,True,2024-01-13 15:06:18,Compliant
+GR0000000048,461415646,OE,Consumer Goods and Retail,M,Dynamis Aegean Trader OE,Heraklio,N1310,2015-11-16,False,2024-07-31 09:07:53,Compliant
+GR0000000049,209747451,AT,Healthcare,S,Specialists Ethos,Xanthi,N0140,2008-10-04,False,2024-03-13 13:19:21,Compliant
+GR0000000050,199585092,AE,Energy,L,Hestia Aegean Ionian AE,Arta,N0410,2002-02-28,False,2024-08-21 11:33:30,Somewhat Compliant
+GR0000000051,507943839,IKE,Healthcare,M,Laboratory Physis IKE,Grevena,N0310,2013-03-08,False,2024-06-27 15:06:28,Compliant
+GR0000000052,203848421,IKE,Automotive,S,Service Aegean IKE,Florina,N0340,2017-07-16,False,2024-12-22 15:20:04,Compliant
+GR0000000053,485451171,AT,Consumer Goods and Retail,M,Agora Pathos Hestia,Korinthos,N1030,2008-12-12,False,2024-06-02 08:51:45,Somewhat Compliant
+GR0000000054,469319644,OE,Agriculture and Food Production,M,Oikos Hellenic Grains OE,Dodekanisa,N1220,2000-04-06,False,2024-02-28 08:54:21,Compliant
+GR0000000055,748245888,AE,Technology and Innovation,L,Pathos Gaia Cyber AE,Chalkidiki,N0270,2023-08-25,True,2024-11-27 09:43:51,Compliant
+GR0000000056,384027113,AT,Logistics and Transportation,S,Eudaimonia Logistics Kosmos,Lefkada,N0640,2008-03-25,False,2024-03-25 11:33:11,Compliant
+GR0000000057,966647391,EPE,Automotive,S,Polis Episteme Kalon EPE,Karditsa,N0510,2011-06-26,False,2024-10-09 10:21:35,Compliant
+GR0000000058,146654552,AE,Logistics and Transportation,M,Aion Depot AE,Florina,N0340,2022-07-27,False,2024-08-06 15:14:51,Compliant
+GR0000000059,883543540,IKE,Healthcare,L,Oikos Eudaimonia Clinic IKE,Rodopi,N0150,2004-11-26,False,2024-07-26 10:11:40,Compliant
+GR0000000060,593303705,AE,Manufacturing,M,Arete Physis Processing AE,Xanthi,N0140,2004-10-29,True,2024-12-02 14:25:01,Compliant
+GR0000000061,675770529,IKE,Financial Services,S,Olympic Paideia Archon IKE,West Attica,N0940,2000-12-27,False,2024-11-10 11:28:37,Compliant
+GR0000000062,234031070,EPE,Consumer Goods and Retail,M,Psyche Pneuma EPE,Kavala,N0130,2016-06-12,False,2024-08-07 14:00:45,Compliant
+GR0000000063,506448196,EPE,Consumer Goods and Retail,S,Mediterranean Koinonia EPE,Chios,N1130,2001-11-13,False,2024-04-19 11:17:48,Non-Compliant
+GR0000000064,184611066,IKE,Automotive,S,Aion Precision IKE,Pieria,N0250,2015-05-29,False,2024-12-26 09:36:06,Compliant
+GR0000000065,692749116,AT,Agriculture and Food Production,S,Natural Sophia,Aitoloakarnania,N0710,2022-03-03,False,2024-10-01 10:23:20,Compliant
+GR0000000066,414797776,IKE,Manufacturing,M,Precision Koinonia Manufacturers IKE,Magnisia,N0530,2011-10-04,False,2024-04-10 15:07:16,Compliant
+GR0000000067,990566476,AE,Financial Services,S,Kairos Analysis Sophia AE,Kefallonia,N0630,2013-08-26,False,2024-12-09 15:33:40,Compliant
+GR0000000068,774996843,AT,Consumer Goods and Retail,S,Mediterranean Eudaimonia Store,Arkadia,N1020,2019-08-20,False,2024-06-09 17:24:39,Somewhat Compliant
+GR0000000069,764130526,EPE,Automotive,S,Techne Repair EPE,Peiraias and islands,N0920,2016-02-13,False,2024-07-19 17:07:22,Compliant
+GR0000000070,488302652,IKE,Logistics and Transportation,M,Distribution Freight IKE,Xanthi,N0140,2019-02-09,False,2024-06-29 15:39:11,Compliant
+GR0000000071,719927151,AT,Healthcare,S,Curative Care,Peiraias and islands,N0920,2024-10-14,False,2024-12-10 12:58:39,Compliant
+GR0000000072,306468299,EPE,Energy,S,Conservation Olympian EPE,Ilia,N0730,2004-10-17,False,2024-10-29 09:43:08,Compliant
+GR0000000073,856528252,IKE,Automotive,S,Hephaestus Paideia Service IKE,Thessaloniki,N0220,2006-02-05,False,2024-06-09 09:15:19,Compliant
+GR0000000074,174684276,AT,Healthcare,S,Innovation Chronos Remedy,Kerkyra,N0620,2021-09-21,False,2024-02-29 10:23:44,Compliant
+GR0000000075,149203558,IKE,Technology and Innovation,M,Hermes Progressive IKE,Peiraias and islands,N0920,1998-09-02,False,2024-03-13 16:24:26,Compliant
+GR0000000076,810026086,AT,Energy,S,Paideia Wind,Chania,N1340,2018-07-27,False,2024-11-01 10:36:24,Compliant
+GR0000000077,344703907,IKE,Healthcare,S,Mythos Techne Sophia IKE,Kerkyra,N0620,2015-01-14,False,2024-08-04 10:31:40,Compliant
+GR0000000078,930075810,EPE,Manufacturing,L,Marathon Mythos EPE,Serres,N0260,2018-09-09,True,2024-10-02 10:35:10,Somewhat Compliant
+GR0000000079,410727955,AE,Agriculture and Food Production,M,Olive Wholesome AE,Imathia,N0210,2011-03-24,False,2024-09-07 12:08:11,Compliant
+GR0000000080,185675980,AT,Technology and Innovation,M,Demos Software,Dodekanisa,N1220,1998-07-02,False,2024-06-10 15:39:03,Compliant
+GR0000000081,349957310,EPE,Healthcare,M,Ecclesia Agora Chronos EPE,Fthiotida,N0840,2020-04-21,False,2024-07-02 08:31:08,Compliant
+GR0000000082,208449460,IKE,Technology and Innovation,M,Energeia Pneuma IKE,Chania,N1340,2000-01-12,False,2024-04-09 14:35:32,Non-Compliant
+GR0000000083,508157429,OE,Consumer Goods and Retail,L,Market Oikos Agon OE,Heraklio,N1310,1997-10-07,False,2024-11-30 15:26:43,Compliant
+GR0000000084,398471886,OE,Automotive,L,Energeia Sophia OE,Chalkidiki,N0270,2019-07-25,True,2024-09-08 14:45:53,Compliant
+GR0000000085,586845604,AT,Logistics and Transportation,S,Carrier Koinonia Flow,Fthiotida,N0840,2017-09-02,False,2024-08-15 15:10:05,Compliant
+GR0000000086,782560971,AT,Manufacturing,S,Paideia Basileus Energeia,Trikala,N0540,2004-01-25,False,2024-10-16 08:50:48,Compliant
+GR0000000087,995619255,IKE,Healthcare,M,Oikos Onoma Specialists IKE,Argolida,N1010,2020-09-08,False,2024-04-22 12:02:17,Compliant
+GR0000000088,491735568,AT,Technology and Innovation,M,Virtual Hellenic Connected,Pieria,N0250,2019-01-26,False,2024-04-25 16:18:10,Compliant
+GR0000000089,274648506,OE,Manufacturing,L,Workshop Episteme Harmonia OE,Xanthi,N0140,2001-09-20,True,2024-08-22 17:47:49,Compliant
+GR0000000090,497478786,EPE,Consumer Goods and Retail,L,Kairos Goods Archon EPE,East Attica,N0930,2002-05-18,False,2024-09-10 16:32:07,Compliant
+GR0000000091,481469012,AE,Energy,S,Eco Agon Biomass AE,Kavala,N0130,2009-09-18,False,2024-10-20 09:17:49,Compliant
+GR0000000092,324956459,IKE,Financial Services,M,Planner Planners Analysis IKE,Trikala,N0540,2018-05-04,True,2024-10-05 13:34:52,Compliant
+GR0000000093,819595113,IKE,Agriculture and Food Production,S,Mythos Farm Ecclesia IKE,Trikala,N0540,2014-10-26,False,2024-01-22 15:34:13,Compliant
+GR0000000094,386665249,AT,Manufacturing,S,Crete Foundry,Kefallonia,N0630,2000-03-18,False,2024-08-05 09:47:53,Compliant
+GR0000000095,853573823,AE,Automotive,S,Basileus Onoma Parts AE,Pieria,N0250,2004-03-18,False,2024-11-30 11:19:55,Compliant
+GR0000000096,833953718,IKE,Automotive,S,Basileus Xenia Motor IKE,Peiraias and islands,N0920,2021-02-26,False,2024-01-17 15:16:22,Compliant
+GR0000000097,795822698,AT,Automotive,M,Arete Repair,Arta,N0410,2016-12-03,False,2024-02-14 15:55:07,Compliant
+GR0000000098,176667861,EPE,Manufacturing,S,Workshop Craftsmen Kalon EPE,Lakonia,N1040,1999-01-28,False,2024-05-01 11:51:47,Non-Compliant
+GR0000000099,754049436,IKE,Financial Services,S,Episteme Demos Agon IKE,Arkadia,N1020,2017-11-21,False,2024-10-28 13:55:45,Compliant
+GR0000000100,781802744,OE,Financial Services,S,Nous Demos Consultants OE,Trikala,N0540,2014-12-24,False,2024-11-08 14:10:39,Compliant
+GR0000000101,283758720,AT,Logistics and Transportation,S,Energeia Bridge Track,Grevena,N0310,1997-06-29,False,2024-03-12 11:52:13,Non-Compliant
+GR0000000102,673528321,EPE,Financial Services,S,Guardian Acropolis Yield EPE,Mesinia,N1050,2015-05-04,False,2024-01-31 17:22:34,Compliant
+GR0000000103,882893941,AT,Tourism and Hospitality,S,Santorini Hestia Haven,Heraklio,N1310,2000-11-30,False,2024-05-23 17:34:10,Compliant
+GR0000000104,362863730,EPE,Consumer Goods and Retail,M,Galleria Aion EPE,Aitoloakarnania,N0710,2018-01-08,False,2024-06-14 12:18:36,Compliant
+GR0000000105,275452091,IKE,Manufacturing,M,Mythos Archon Nomos IKE,Kilkis,N0230,2013-08-19,False,2024-05-16 16:57:43,Somewhat Compliant
+GR0000000106,596348124,IKE,Technology and Innovation,M,Greek Pixel Next IKE,Rodopi,N0150,2015-06-28,False,2024-02-18 10:48:50,Compliant
+GR0000000107,507437181,AE,Healthcare,S,Kosmos Treatment AE,Heraklio,N1310,2020-04-17,False,2024-07-29 08:17:55,Somewhat Compliant
+GR0000000108,389854268,AT,Manufacturing,S,Ellada Basileus Industrial,Korinthos,N1030,1997-08-02,False,2024-12-01 10:44:55,Compliant
+GR0000000109,787194506,AT,Logistics and Transportation,S,Distribution Hellenic Hestia,Zakynthos,N0610,2020-01-24,False,2024-03-08 11:09:45,Compliant
+GR0000000110,838908273,AT,Technology and Innovation,S,Athens Paideia Episteme,Xanthi,N0140,2015-09-27,False,2024-06-13 11:48:53,Somewhat Compliant
+GR0000000111,698020238,IKE,Logistics and Transportation,S,Transport Nomos IKE,Rethymno,N1330,2008-10-27,False,2024-12-12 14:31:09,Compliant
+GR0000000112,335809993,EPE,Healthcare,S,Philia Xenia Koinonia EPE,Chania,N1340,1995-12-22,False,2024-10-22 12:40:26,Compliant
+GR0000000113,835098955,AT,Manufacturing,S,Steel Acropolis Factory,Kavala,N0130,2012-10-04,False,2024-07-11 15:04:40,Compliant
+GR0000000114,448195935,AT,Consumer Goods and Retail,S,Olympian Greek Polis,Thesprotia,N0420,2006-05-31,False,2024-02-17 14:32:47,Compliant
+GR0000000115,924970419,OE,Tourism and Hospitality,M,Aegean Paideia Vacation OE,Drama,N0110,1995-02-18,False,2024-05-22 13:29:31,Somewhat Compliant
+GR0000000116,933223566,EPE,Agriculture and Food Production,M,Garden Nomos EPE,Chania,N1340,2004-10-09,False,2024-06-16 17:00:55,Compliant
+GR0000000117,160062915,AT,Logistics and Transportation,M,Athens Junction Delivery,Ilia,N0730,2020-12-09,False,2024-02-17 15:40:42,Compliant
+GR0000000118,345938494,IKE,Manufacturing,M,Onoma Nomos Pneuma IKE,Trikala,N0540,1998-04-10,False,2024-12-23 13:54:04,Somewhat Compliant
+GR0000000119,982403818,AT,Financial Services,M,Aion Kairos,Lefkada,N0640,1997-01-11,False,2024-09-30 14:13:27,Non-Compliant
+GR0000000120,134467368,OE,Logistics and Transportation,S,Episteme Line Paideia OE,Athens,N0910,2014-01-01,False,2024-04-18 15:17:20,Compliant
+GR0000000121,964411347,IKE,Technology and Innovation,M,Progressive Demos Nomos IKE,Trikala,N0540,2010-06-14,False,2024-05-25 13:35:36,Somewhat Compliant
+GR0000000122,438715135,IKE,Manufacturing,M,Paideia Hellenic IKE,Thessaloniki,N0220,1997-11-09,False,2024-03-07 17:54:31,Compliant
+GR0000000123,530747414,IKE,Energy,S,Biomass Grid IKE,Aitoloakarnania,N0710,2019-04-10,False,2024-06-24 08:02:06,Compliant
+GR0000000124,387484583,AT,Financial Services,S,Treasury Protector,Pella,N0240,1997-09-13,False,2024-11-16 15:01:07,Compliant
+GR0000000125,171069472,IKE,Energy,M,Kalon Greek IKE,Peiraias and islands,N0920,1998-02-03,False,2024-03-21 15:29:00,Compliant
+GR0000000126,326541099,OE,Energy,M,Energy Agora OE,Achaia,N0720,2016-03-04,False,2024-08-07 11:44:58,Compliant
+GR0000000127,709004943,IKE,Consumer Goods and Retail,M,Praxis Eudaimonia Seller IKE,Thessaloniki,N0220,1996-06-02,False,2024-03-08 12:10:55,Compliant
+GR0000000128,870854579,IKE,Financial Services,S,Guardian Management IKE,Dodekanisa,N1220,2007-11-16,False,2024-05-20 09:41:23,Compliant
+GR0000000129,437882805,AT,Tourism and Hospitality,M,Xenia Aegean Discovery,Magnisia,N0530,2013-05-03,False,2024-05-08 09:23:42,Compliant
+GR0000000130,328306011,AT,Technology and Innovation,M,Onoma Harmonia Theoria,Drama,N0110,2003-01-26,False,2024-11-28 10:03:25,Compliant
+GR0000000131,803771909,AT,Tourism and Hospitality,L,Episteme Delphi,Lefkada,N0640,2001-01-26,True,2024-11-16 12:46:44,Compliant
+GR0000000132,636045484,AT,Automotive,M,Speed Innovations,Kilkis,N0230,2023-10-10,False,2024-04-29 14:41:05,Compliant
+GR0000000133,524806516,AE,Financial Services,S,Equity Trust AE,Xanthi,N0140,2023-12-21,False,2024-12-26 09:00:13,Compliant
+GR0000000134,790256940,EPE,Automotive,S,Logos Zoe EPE,Heraklio,N1310,2013-11-08,False,2024-09-01 09:08:37,Compliant
+GR0000000135,592688426,OE,Financial Services,S,Polis Acropolis Koinonia OE,Kerkyra,N0620,2011-10-18,False,2024-04-25 16:43:28,Compliant
+GR0000000136,253407200,AT,Energy,S,Polis Network Basileus,Larisa,N0520,2012-02-26,False,2024-01-05 08:44:21,Compliant
+GR0000000137,384412919,AT,Technology and Innovation,M,Nous Informatics Hestia,Rethymno,N1330,2015-02-12,False,2024-03-02 14:44:08,Compliant
+GR0000000138,249926919,OE,Logistics and Transportation,S,Koinonia Ethos OE,Heraklio,N1310,2011-12-06,False,2024-09-01 09:14:24,Compliant
+GR0000000139,364814270,IKE,Energy,S,Wind Mediterranean Efficiency IKE,Chania,N1340,2011-11-06,False,2024-02-15 09:06:20,Compliant
+GR0000000140,899925830,AE,Logistics and Transportation,S,Bridge Nomos AE,Heraklio,N1310,1998-08-06,False,2024-07-07 12:08:24,Somewhat Compliant
+GR0000000141,702764446,EPE,Energy,M,Clean Eudaimonia EPE,Fthiotida,N0840,2024-09-06,False,2024-03-09 10:04:33,Compliant
+GR0000000142,678722458,AT,Automotive,M,Technologies Precision Praxis,Pieria,N0250,2019-03-10,False,2024-10-15 08:39:41,Somewhat Compliant
+GR0000000143,382116655,AT,Automotive,S,Basileus Hermes Agon,Korinthos,N1030,2000-12-17,False,2024-03-25 15:22:46,Somewhat Compliant
+GR0000000144,902099969,AE,Consumer Goods and Retail,S,Agora Pathos Logos AE,Thesprotia,N0420,2024-04-24,False,2024-04-19 10:58:26,Non-Compliant
+GR0000000145,727694430,AT,Agriculture and Food Production,M,Field Pathos,Trikala,N0540,2010-08-06,False,2024-11-11 15:55:13,Non-Compliant
+GR0000000146,560027313,AT,Energy,M,Archon Solutions Polis,Trikala,N0540,2000-04-26,False,2024-02-14 09:08:48,Compliant
+GR0000000147,726563708,EPE,Technology and Innovation,M,Polis Hellenic EPE,Mesinia,N1050,2003-01-02,True,2024-03-04 17:46:24,Non-Compliant
+GR0000000148,528853029,IKE,Agriculture and Food Production,S,Sustenance Logos Vineyard IKE,Grevena,N0310,2019-02-05,False,2024-06-28 14:20:50,Compliant
+GR0000000149,488690725,AT,Logistics and Transportation,S,Basileus Logistics Harmonia,Euritania,N0830,2012-08-17,False,2024-03-12 11:17:41,Compliant
+GR0000000150,335493870,AT,Energy,S,Agora Gas Natural,Samos,N1120,2018-09-20,False,2024-02-13 11:35:38,Compliant
+GR0000000151,248532577,IKE,Energy,L,Archon Dynamis Gas IKE,Samos,N1120,2000-09-16,True,2024-11-03 17:18:49,Compliant
+GR0000000152,647099690,AT,Manufacturing,M,Construction Ecclesia,Lefkada,N0640,2004-12-26,False,2024-12-19 08:54:54,Compliant
+GR0000000153,629908599,AT,Technology and Innovation,M,Future Nous,Xanthi,N0140,1995-02-25,False,2024-12-03 12:13:33,Compliant
+GR0000000154,197613238,IKE,Energy,S,Poseidon Wind Theoria IKE,Xanthi,N0140,1996-01-07,False,2024-11-06 16:12:47,Compliant
+GR0000000155,911514914,IKE,Consumer Goods and Retail,S,Boutique Arete IKE,Zakynthos,N0610,2008-05-19,False,2024-07-19 12:41:03,Compliant
+GR0000000156,150590821,EPE,Energy,S,Kalon Agora EPE,Korinthos,N1030,2015-10-07,False,2024-05-02 15:24:07,Compliant
+GR0000000157,217734861,EPE,Healthcare,S,Pharmacy Hygeia EPE,West Attica,N0940,2019-06-03,False,2024-05-03 15:40:38,Compliant
+GR0000000158,264112119,IKE,Financial Services,S,Acropolis Theoria Monetary IKE,Xanthi,N0140,2014-01-08,False,2024-02-06 16:56:00,Compliant
+GR0000000159,773715057,AE,Energy,S,Technologies Demos Network AE,Ilia,N0730,2018-11-10,False,2024-07-03 13:08:24,Compliant
+GR0000000160,271779360,EPE,Automotive,M,Archon Agon Components EPE,Peiraias and islands,N0920,2012-01-05,False,2024-10-18 14:23:34,Compliant
+GR0000000161,950488739,AT,Agriculture and Food Production,S,Kalon Orchard Nous,Chania,N1340,2005-04-19,False,2024-12-15 10:48:30,Somewhat Compliant
+GR0000000162,830661141,AE,Tourism and Hospitality,L,Theoria Ecclesia AE,Serres,N0260,2006-02-06,False,2024-02-07 08:37:04,Compliant
+GR0000000163,553290810,AT,Technology and Innovation,S,Innovation Connected,Evia,N0820,2015-08-29,False,2024-01-08 12:13:02,Compliant
+GR0000000164,740389325,AE,Healthcare,M,Logos Agon Specialists AE,Fokida,N0850,2010-07-11,False,2024-01-31 14:32:18,Somewhat Compliant
+GR0000000165,168212356,OE,Automotive,M,Designs Ethos OE,Evia,N0820,2001-12-15,False,2024-11-17 16:49:26,Compliant
+GR0000000166,513140753,IKE,Healthcare,S,Healing Episteme Ecclesia IKE,Fthiotida,N0840,2007-05-13,False,2024-08-04 14:05:40,Compliant
+GR0000000167,509760584,IKE,Technology and Innovation,S,Secure Dynamic Archon IKE,Ilia,N0730,2003-06-15,False,2024-10-01 16:39:09,Compliant
+GR0000000168,739830322,AT,Healthcare,L,Dynamis Arete Preventive,Kilkis,N0230,2000-01-22,False,2024-05-22 09:19:05,Compliant
+GR0000000169,602564736,AT,Manufacturing,M,Hestia Chronos,Aitoloakarnania,N0710,1996-06-10,False,2024-09-18 11:51:09,Compliant
+GR0000000170,668132202,AT,Tourism and Hospitality,S,Oikos Leisure,Rethymno,N1330,2024-08-11,True,2024-10-01 13:25:37,Somewhat Compliant
+GR0000000171,369953851,AT,Logistics and Transportation,S,Xenia Physis Sophia,Larisa,N0520,2013-10-20,False,2024-11-20 09:19:44,Compliant
+GR0000000172,694021782,AT,Healthcare,S,Aion Pharma,Pieria,N0250,2022-07-31,False,2024-08-11 11:03:15,Compliant
+GR0000000173,112327652,EPE,Energy,S,Basileus Pneuma EPE,Kavala,N0130,1995-09-13,False,2024-02-14 14:07:29,Compliant
+GR0000000174,830448745,AT,Financial Services,S,Aegean Polis Agon,Athens,N0910,2005-10-17,False,2024-11-09 17:03:19,Compliant
+GR0000000175,873869166,AT,Agriculture and Food Production,S,Farm Orchard Agora,Chania,N1340,2004-03-29,False,2024-12-07 10:07:00,Somewhat Compliant
+GR0000000176,222998994,AT,Tourism and Hospitality,M,Aegean Aion,Viotia,N0810,1998-01-06,False,2024-12-28 10:44:00,Somewhat Compliant
+GR0000000177,831980933,AT,Manufacturing,L,Arete Pneuma Techne,Arta,N0410,1999-07-11,True,2024-03-24 15:22:33,Compliant
+GR0000000178,676567501,EPE,Automotive,S,Kosmos Kalon EPE,West Attica,N0940,2021-08-22,False,2024-09-21 12:10:23,Compliant
+GR0000000179,906248900,AT,Automotive,M,Pathos Basileus Mythos,Arkadia,N1020,1996-07-03,False,2024-03-05 12:46:56,Compliant
+GR0000000180,386501362,AE,Automotive,L,Aegean Parts AE,Kastoria,N0320,2015-01-09,True,2024-03-01 08:21:51,Compliant
+GR0000000181,925276600,IKE,Financial Services,M,Guardian Greek Psyche IKE,Lasithio,N1320,2021-10-24,False,2024-08-07 12:33:04,Compliant
+GR0000000182,788227492,IKE,Automotive,S,Olympian Philia IKE,Kefallonia,N0630,1997-03-07,False,2024-05-14 17:40:04,Compliant
+GR0000000183,465260635,AT,Technology and Innovation,S,Advanced Data,Lefkada,N0640,2005-12-22,False,2024-09-11 15:32:23,Somewhat Compliant
+GR0000000184,219778234,AE,Agriculture and Food Production,M,Logos Hellenic AE,Thesprotia,N0420,1996-12-24,False,2024-01-29 15:54:36,Somewhat Compliant
+GR0000000185,415143362,AT,Energy,M,Chronos Physis Episteme,Larisa,N0520,2013-01-15,False,2024-03-26 13:10:16,Compliant
+GR0000000186,566825638,OE,Manufacturing,S,Workshop Archon OE,Florina,N0340,2014-09-08,False,2024-02-22 17:43:46,Compliant
+GR0000000187,269820594,AT,Financial Services,S,Gaia Growth Portfolio,Kavala,N0130,2005-07-05,False,2024-02-29 11:47:32,Compliant
+GR0000000188,587182120,AT,Energy,L,Aegean Zoe,Larisa,N0520,2019-03-18,False,2024-01-02 08:54:55,Compliant
+GR0000000189,103484630,AT,Logistics and Transportation,S,Zoe Hub Agon,Aitoloakarnania,N0710,2004-09-28,False,2024-01-07 11:02:30,Compliant
+GR0000000190,875340444,IKE,Financial Services,L,Guardian Koinonia IKE,Athens,N0910,1997-07-12,False,2024-07-05 14:58:09,Somewhat Compliant
+GR0000000191,872751234,AT,Automotive,M,Eudaimonia Systems Car,Pieria,N0250,2001-04-13,False,2024-04-01 08:35:51,Compliant
+GR0000000192,382811832,AT,Agriculture and Food Production,M,Pure Hestia Field,Lasithio,N1320,2017-08-07,False,2024-12-31 14:14:20,Compliant
+GR0000000193,637500247,IKE,Healthcare,S,Agora Innovation Dynamis IKE,Chania,N1340,2007-12-22,False,2024-05-07 14:58:46,Compliant
+GR0000000194,918150683,IKE,Financial Services,M,Dividend Kosmos Dynamis IKE,Dodekanisa,N1220,2005-07-02,False,2024-06-12 12:52:04,Somewhat Compliant
+GR0000000195,291825997,IKE,Manufacturing,S,Foundry Kosmos IKE,Kavala,N0130,2020-11-02,False,2024-10-19 13:07:32,Compliant
+GR0000000196,645119047,AT,Technology and Innovation,M,Ecclesia Next Cyber,Xanthi,N0140,2009-04-20,False,2024-12-10 08:11:14,Non-Compliant
+GR0000000197,214257751,AT,Energy,M,Systems Power Nomos,Pieria,N0250,2020-11-25,False,2024-09-21 08:25:04,Compliant
+GR0000000198,771410971,EPE,Automotive,L,Demos Designs EPE,Ioannina,N0430,2021-10-26,True,2024-08-26 12:49:54,Compliant
+GR0000000199,420452650,IKE,Consumer Goods and Retail,S,Theoria Chronos IKE,Magnisia,N0530,2009-05-19,False,2024-06-08 13:05:35,Somewhat Compliant
+GR0000000200,786066793,AT,Healthcare,S,Preventive Theoria,Pieria,N0250,2005-08-16,False,2024-08-21 08:23:12,Somewhat Compliant
+GR0000000201,645098869,AE,Healthcare,S,Life Zoe Acropolis AE,Chania,N1340,2008-07-14,False,2024-05-29 17:50:19,Compliant
+GR0000000202,753876785,AT,Healthcare,S,Surgeons Koinonia,Heraklio,N1310,2001-06-04,False,2024-11-14 11:29:23,Compliant
+GR0000000203,313579170,AT,Consumer Goods and Retail,M,Paideia Techne,Arta,N0410,2024-08-11,False,2024-10-29 15:49:49,Compliant
+GR0000000204,264109919,AE,Technology and Innovation,S,Hellenic Next AE,East Attica,N0930,2018-05-19,False,2024-04-10 16:48:50,Compliant
+GR0000000205,501486939,AT,Agriculture and Food Production,S,Oikos Soil Vegetables,Kilkis,N0230,2004-11-29,False,2024-05-05 10:00:59,Compliant
+GR0000000206,918739736,AT,Energy,M,Hestia Techne,Larisa,N0520,2013-07-19,False,2024-07-28 08:14:34,Compliant
+GR0000000207,273461957,AE,Technology and Innovation,S,Athena Augmented Koinonia AE,Athens,N0910,2008-06-23,False,2024-06-26 08:21:00,Compliant
+GR0000000208,679153816,AE,Technology and Innovation,S,Agile Olympic Agora AE,Viotia,N0810,2007-05-05,False,2024-12-02 14:54:47,Non-Compliant
+GR0000000209,936043811,IKE,Automotive,S,Motion Repair IKE,Kefallonia,N0630,1997-09-24,False,2024-06-06 09:13:33,Non-Compliant
+GR0000000210,669462919,AT,Financial Services,L,Ecclesia Logos Greek,Trikala,N0540,2019-12-21,False,2024-05-01 14:31:03,Compliant
+GR0000000211,100614068,AT,Technology and Innovation,S,Digital Intelligence Aion,Arta,N0410,2021-07-15,False,2024-03-13 12:05:02,Compliant
+GR0000000212,743111853,IKE,Logistics and Transportation,S,Energeia Techne IKE,Chania,N1340,2002-11-08,False,2024-04-28 16:26:44,Compliant
+GR0000000213,448059918,AT,Tourism and Hospitality,L,Pneuma Nous Sophia,Larisa,N0520,2023-01-29,True,2024-07-09 15:47:05,Compliant
+GR0000000214,624636385,OE,Agriculture and Food Production,M,Poultry Eudaimonia OE,Xanthi,N0140,2014-02-28,True,2024-10-24 09:32:08,Non-Compliant
+GR0000000215,120912992,AT,Automotive,M,Onoma Kairos,Xanthi,N0140,2019-12-07,True,2024-11-22 14:04:37,Compliant
+GR0000000216,220117054,OE,Manufacturing,S,Zoe Delphi OE,Korinthos,N1030,2017-03-25,False,2024-10-17 08:27:42,Compliant
+GR0000000217,489747629,AT,Consumer Goods and Retail,S,Dealer Agora Olympian,Trikala,N0540,1997-02-06,False,2024-03-07 11:18:16,Compliant
+GR0000000218,992994062,AE,Logistics and Transportation,S,Distribution Cargo AE,Lefkada,N0640,2010-06-12,False,2024-06-10 14:44:53,Compliant
+GR0000000219,966267851,AT,Consumer Goods and Retail,M,Archon Olympian Agora,Lesvos,N1110,2023-11-09,False,2024-06-16 13:28:17,Compliant
+GR0000000220,430190783,IKE,Energy,S,Harmonia Ionian IKE,Pieria,N0250,2012-02-04,False,2024-04-29 09:12:08,Compliant
+GR0000000221,357109965,EPE,Tourism and Hospitality,M,Xenia Sophia Kalon EPE,Achaia,N0720,2018-07-10,False,2024-10-26 09:09:06,Compliant
+GR0000000222,162196678,AT,Consumer Goods and Retail,S,Pneuma Shop Oikos,Kastoria,N0320,2009-04-18,False,2024-03-25 15:29:20,Compliant
+GR0000000223,358633898,AT,Energy,M,Agon Zoe,Magnisia,N0530,2013-09-03,False,2024-07-27 09:34:22,Compliant
+GR0000000224,709194872,EPE,Manufacturing,S,Builder Mediterranean Kairos EPE,Pieria,N0250,2013-04-23,False,2024-04-16 15:19:29,Somewhat Compliant
+GR0000000225,184564737,IKE,Energy,S,Dynamis Conservation IKE,Magnisia,N0530,2001-09-09,False,2024-05-15 09:05:10,Somewhat Compliant
+GR0000000226,191969690,IKE,Consumer Goods and Retail,S,Agora Physis Hestia IKE,Fokida,N0850,2008-06-13,False,2024-12-17 12:52:45,Compliant
+GR0000000227,885879795,AT,Automotive,S,Greek Agora Technologies,Lakonia,N1040,2011-11-19,False,2024-12-22 17:02:13,Compliant
+GR0000000228,621828280,AT,Energy,S,Poseidon Philia,Chios,N1130,2003-03-31,False,2024-06-16 10:05:45,Compliant
+GR0000000229,976198296,AT,Logistics and Transportation,S,Storage Pneuma,Chios,N1130,2019-02-16,False,2024-05-07 13:25:32,Compliant
+GR0000000230,174316370,AE,Technology and Innovation,M,Systems Dynamic AE,Arkadia,N1020,2016-03-28,False,2024-01-26 12:16:52,Compliant
+GR0000000231,916690353,AT,Logistics and Transportation,M,Express Mythos,Xanthi,N0140,2005-10-22,False,2024-03-30 08:25:54,Compliant
+GR0000000232,671988889,AT,Consumer Goods and Retail,M,Greek Kalon,Heraklio,N1310,2005-02-08,False,2024-08-19 16:47:35,Somewhat Compliant
+GR0000000233,922308461,EPE,Automotive,S,Theoria Service EPE,Lesvos,N1110,2008-06-27,False,2024-05-07 09:29:06,Compliant
+GR0000000234,235034324,AE,Automotive,S,Kosmos Motion AE,Evia,N0820,2001-06-22,False,2024-03-12 09:00:03,Compliant
+GR0000000235,237859287,AT,Technology and Innovation,S,Connected Doric,Zakynthos,N0610,2015-10-08,False,2024-04-23 10:12:52,Compliant
+GR0000000236,808402051,IKE,Tourism and Hospitality,M,Kalon Odyssey IKE,Aitoloakarnania,N0710,1997-08-01,False,2024-07-24 13:43:40,Compliant
+GR0000000237,610330567,AT,Technology and Innovation,L,Olympic Theoria,Larisa,N0520,2020-03-23,False,2024-11-26 09:37:37,Compliant
+GR0000000238,690347116,OE,Agriculture and Food Production,M,Cultivation Farm OE,Kozani,N0330,2013-07-05,False,2024-05-12 09:01:04,Compliant
+GR0000000239,277303722,AT,Agriculture and Food Production,S,Fishery Pneuma Logos,Karditsa,N0510,2013-09-06,False,2024-04-11 15:51:08,Somewhat Compliant
+GR0000000240,384602384,AE,Agriculture and Food Production,M,Soil Natural AE,Imathia,N0210,2019-12-30,False,2024-02-17 13:07:02,Compliant
+GR0000000241,666585408,OE,Agriculture and Food Production,S,Cultivation Oikos OE,Kozani,N0330,2018-10-09,False,2024-08-24 08:10:59,Compliant
+GR0000000242,751325257,OE,Logistics and Transportation,L,Aegean Xenia OE,Kerkyra,N0620,2001-01-04,True,2024-10-20 14:52:46,Somewhat Compliant
+GR0000000243,554340903,IKE,Financial Services,S,Logos Eudaimonia Kalon IKE,Imathia,N0210,2012-06-02,False,2024-07-21 15:01:24,Compliant
+GR0000000244,327416584,EPE,Technology and Innovation,S,Psyche Energeia EPE,Arta,N0410,2005-11-21,False,2024-12-15 14:11:22,Compliant
+GR0000000245,679064766,AE,Tourism and Hospitality,M,Leisure Gaia AE,Arkadia,N1020,2006-06-08,False,2024-04-19 10:17:17,Somewhat Compliant
+GR0000000246,910959828,OE,Financial Services,S,Oikos Theoria Wealth OE,Kyklades,N1210,2004-02-13,False,2024-08-16 10:02:39,Compliant
+GR0000000247,883757514,IKE,Tourism and Hospitality,S,Ionian Archon Energeia IKE,Fokida,N0850,2009-10-24,False,2024-11-13 17:15:41,Compliant
+GR0000000248,840739735,AT,Manufacturing,M,Crete Manufacturers,Fthiotida,N0840,2024-01-03,False,2024-05-31 15:26:56,Somewhat Compliant
+GR0000000249,315984311,IKE,Consumer Goods and Retail,L,Greek Marketplace IKE,Evia,N0820,1998-07-18,True,2024-10-08 15:03:05,Non-Compliant
+GR0000000250,865523129,AE,Logistics and Transportation,M,Zoe Onoma Hestia AE,Achaia,N0720,2015-03-05,False,2024-05-23 14:08:26,Compliant
+GR0000000251,434702822,IKE,Manufacturing,M,Kosmos Nomos Archon IKE,Ioannina,N0430,2011-08-23,False,2024-04-12 16:15:40,Somewhat Compliant
+GR0000000252,528414718,OE,Manufacturing,L,Koinonia Eudaimonia Onoma OE,Arta,N0410,1999-02-22,False,2024-10-05 08:24:50,Compliant
+GR0000000253,821218382,AT,Healthcare,S,Acropolis Hygeia Harmonia,Athens,N0910,2019-01-09,False,2024-12-31 13:30:34,Compliant
+GR0000000254,797801251,AT,Agriculture and Food Production,S,Episteme Energeia,Ilia,N0730,2003-07-17,False,2024-09-05 13:58:36,Compliant
+GR0000000255,500957212,IKE,Technology and Innovation,S,Chronos Agile IKE,Zakynthos,N0610,1997-04-23,False,2024-09-14 13:24:17,Compliant
+GR0000000256,570406376,IKE,Manufacturing,S,Physis Nous Hellenic IKE,Evros,N0120,2007-01-15,False,2024-04-02 08:20:38,Somewhat Compliant
+GR0000000257,655742829,AE,Healthcare,M,Agora Consultants Innovation AE,Mesinia,N1050,2011-12-01,False,2024-04-22 08:57:51,Compliant
+GR0000000258,584779555,OE,Technology and Innovation,S,Helios Oikos Innovation OE,Heraklio,N1310,2022-02-18,False,2024-05-23 08:51:30,Compliant
+GR0000000259,229927269,IKE,Tourism and Hospitality,S,Mediterranean Athens IKE,Preveza,N0440,2022-01-16,False,2024-09-28 13:49:37,Compliant
+GR0000000260,366186631,AT,Agriculture and Food Production,L,Demeter Physis Cultivation,Rethymno,N1330,1996-10-08,False,2024-04-29 10:06:15,Compliant
+GR0000000261,341266931,AT,Technology and Innovation,M,Harmonia Basileus,Ilia,N0730,1998-04-06,False,2024-12-02 11:17:34,Compliant
+GR0000000262,168747287,AT,Automotive,M,Mechanics Koinonia Physis,Fthiotida,N0840,2003-06-09,True,2024-01-29 11:36:54,Compliant
+GR0000000263,463016614,OE,Financial Services,S,Securities Management Mythos OE,Imathia,N0210,2021-05-09,False,2024-07-17 13:59:53,Compliant
+GR0000000264,122585366,AT,Tourism and Hospitality,M,Techne Ionian Paideia,Evros,N0120,2020-01-25,False,2024-03-29 10:15:37,Compliant
+GR0000000265,731691672,IKE,Consumer Goods and Retail,M,Shop Aion IKE,Viotia,N0810,2004-09-24,False,2024-06-11 13:58:37,Compliant
+GR0000000266,694768704,AE,Agriculture and Food Production,M,Olive Kosmos AE,Fokida,N0850,2016-07-02,False,2024-01-15 13:36:36,Compliant
+GR0000000267,347083812,AT,Tourism and Hospitality,M,Delphi Relaxation Paideia,Pieria,N0250,2004-05-14,False,2024-03-13 17:12:53,Compliant
+GR0000000268,731832764,OE,Energy,L,Theoria Network OE,Peiraias and islands,N0920,2009-12-07,True,2024-09-09 16:19:11,Compliant
+GR0000000269,336456621,AT,Manufacturing,S,Steel Construction,Ioannina,N0430,2008-08-06,False,2024-09-08 08:05:03,Compliant
+GR0000000270,107721109,AT,Healthcare,M,Logos Pathos Health,Kyklades,N1210,1995-09-08,False,2024-04-29 17:14:01,Somewhat Compliant
+GR0000000271,176228245,EPE,Energy,L,Attica Nomos EPE,Euritania,N0830,2004-07-01,True,2024-09-26 15:00:21,Somewhat Compliant
+GR0000000272,860038427,IKE,Agriculture and Food Production,S,Greek Orchard Produce IKE,Euritania,N0830,2003-07-10,False,2024-11-10 11:51:08,Compliant
+GR0000000273,777641645,AT,Energy,L,Gaia Biomass,Trikala,N0540,2000-04-05,True,2024-06-23 10:58:51,Compliant
+GR0000000274,163215224,AT,Logistics and Transportation,S,Agora Energeia Pathos,Aitoloakarnania,N0710,2016-06-24,False,2024-06-14 08:01:09,Compliant
+GR0000000275,345824373,IKE,Energy,M,Physis Arete IKE,Korinthos,N1030,2005-11-17,False,2024-10-27 10:49:07,Non-Compliant
+GR0000000276,172370545,IKE,Manufacturing,S,Harmonia Nomos Crete IKE,Kerkyra,N0620,2022-02-09,False,2024-09-26 13:04:23,Compliant
+GR0000000277,133729406,AT,Technology and Innovation,M,Helios Hermes,Thessaloniki,N0220,2004-03-03,False,2024-12-26 14:37:06,Somewhat Compliant
+GR0000000278,454794895,AT,Automotive,M,Athens Innovations,Preveza,N0440,2012-10-15,False,2024-06-21 12:20:08,Compliant
+GR0000000279,176082500,AE,Tourism and Hospitality,M,Episteme Archon Zoe AE,Fokida,N0850,2005-09-25,True,2024-03-21 14:50:40,Compliant
+GR0000000280,652070932,AT,Agriculture and Food Production,M,Oikos Traditional Dairy,Drama,N0110,2019-10-06,False,2024-09-06 13:11:45,Compliant
+GR0000000281,355555531,IKE,Consumer Goods and Retail,M,Kosmos Episteme IKE,East Attica,N0930,2009-06-04,False,2024-10-14 17:50:22,Somewhat Compliant
+GR0000000282,399012686,IKE,Energy,M,Solutions Pneuma IKE,Ilia,N0730,2007-09-11,False,2024-04-24 17:52:11,Compliant
+GR0000000283,818309417,AT,Manufacturing,S,Archon Craftsmen Athens,Karditsa,N0510,2012-01-27,False,2024-07-12 12:46:44,Somewhat Compliant
+GR0000000284,621209849,OE,Healthcare,S,Sophia Paideia OE,Arta,N0410,2015-11-30,False,2024-05-30 10:11:46,Compliant
+GR0000000285,330035022,AE,Technology and Innovation,M,Tech Algorithm AE,Lesvos,N1110,2018-12-08,False,2024-01-01 17:25:54,Compliant
+GR0000000286,678998028,OE,Healthcare,S,Medicine Life Innovation OE,Viotia,N0810,2024-02-05,False,2024-10-17 08:11:38,Compliant
+GR0000000287,242068763,AT,Technology and Innovation,M,Creative Attica Tech,Karditsa,N0510,2011-02-11,True,2024-06-11 17:14:40,Compliant
+GR0000000288,876693898,OE,Technology and Innovation,S,Sophia Quantum Athens OE,Pieria,N0250,2008-10-31,False,2024-10-16 09:59:31,Somewhat Compliant
+GR0000000289,713152854,OE,Manufacturing,L,Basileus Metalworks Eudaimonia OE,West Attica,N0940,2006-09-24,True,2024-03-13 13:47:04,Compliant
+GR0000000290,718702544,IKE,Tourism and Hospitality,S,Aegean Polis Leisure IKE,Kilkis,N0230,2011-02-17,False,2024-05-01 13:20:10,Compliant
+GR0000000291,607526654,AT,Manufacturing,S,Aegean Koinonia Marathon,Grevena,N0310,2017-12-31,False,2024-11-21 09:52:45,Somewhat Compliant
+GR0000000292,360916298,AT,Technology and Innovation,S,Ecclesia Physis Kosmos,Evros,N0120,2017-04-21,False,2024-12-09 13:28:00,Somewhat Compliant
+GR0000000293,942478695,IKE,Logistics and Transportation,M,Way Maritime Psyche IKE,Thessaloniki,N0220,2015-11-26,False,2024-05-15 11:15:44,Compliant
+GR0000000294,607850824,IKE,Tourism and Hospitality,S,Pathos Voyage IKE,Samos,N1120,1999-06-03,False,2024-02-04 13:16:50,Compliant
+GR0000000295,967043303,AT,Automotive,S,Sophia Hermes Energeia,Drama,N0110,2016-01-22,False,2024-02-25 08:03:24,Compliant
+GR0000000296,537077308,AT,Logistics and Transportation,M,Junction Koinonia,Lesvos,N1110,2009-05-12,False,2024-08-12 14:10:56,Compliant
+GR0000000297,304451095,AE,Technology and Innovation,S,Eudaimonia Informatics Kairos AE,Arta,N0410,2004-02-10,False,2024-07-30 15:56:24,Compliant
+GR0000000298,201281557,AT,Technology and Innovation,S,Agile Platform Dynamic,Ioannina,N0430,2011-08-17,False,2024-06-28 16:24:06,Compliant
+GR0000000299,204078666,AT,Financial Services,S,Equity Eudaimonia,Samos,N1120,2009-01-12,False,2024-09-02 17:41:48,Non-Compliant
+GR0000000300,807577342,AT,Healthcare,L,Demos Archon,Lasithio,N1320,2013-07-25,False,2024-12-17 11:10:28,Compliant
+GR0000000301,562837684,IKE,Tourism and Hospitality,L,Chronos Journey IKE,Achaia,N0720,1997-01-18,False,2024-02-07 08:18:01,Somewhat Compliant
+GR0000000302,480424119,AT,Technology and Innovation,M,Aegean Doric,Magnisia,N0530,2020-03-25,False,2024-06-12 12:06:04,Compliant
+GR0000000303,554814084,OE,Technology and Innovation,S,Code Quantum Kalon OE,Imathia,N0210,2004-12-03,False,2024-06-24 10:56:24,Compliant
+GR0000000304,541417711,AE,Agriculture and Food Production,M,Aegean Soil AE,Larisa,N0520,2001-07-17,True,2024-03-23 09:35:57,Compliant
+GR0000000305,601463916,IKE,Energy,S,Xenia Nomos Paideia IKE,Kozani,N0330,1995-09-22,False,2024-02-17 13:38:39,Compliant
+GR0000000306,882839238,AE,Consumer Goods and Retail,M,Nomos Logos Ethos AE,Kyklades,N1210,2006-09-11,False,2024-09-04 08:27:41,Compliant
+GR0000000307,158165865,AT,Financial Services,L,Polis Fund,Peiraias and islands,N0920,2019-10-26,False,2024-03-25 17:56:27,Compliant
+GR0000000308,823019672,IKE,Agriculture and Food Production,L,Dynamis Wholesome Authentic IKE,Imathia,N0210,2021-03-12,False,2024-03-21 08:06:21,Non-Compliant
+GR0000000309,801642483,IKE,Tourism and Hospitality,L,Techne Demos IKE,Serres,N0260,2020-12-22,False,2024-04-15 11:26:44,Compliant
+GR0000000310,793830224,AT,Tourism and Hospitality,S,Ethos Eudaimonia,Kastoria,N0320,2013-09-23,False,2024-10-10 16:16:42,Compliant
+GR0000000311,205675387,OE,Automotive,S,Transport Greek Nous OE,Rodopi,N0150,2008-03-28,False,2024-05-24 12:15:06,Compliant
+GR0000000312,165082363,IKE,Financial Services,S,Equity Theoria Greek IKE,Zakynthos,N0610,2001-11-01,False,2024-01-26 14:36:35,Compliant
+GR0000000313,532311310,AT,Financial Services,M,Koinonia Hestia Demos,Grevena,N0310,2003-10-19,False,2024-09-08 10:03:23,Compliant
+GR0000000314,881913386,AT,Logistics and Transportation,M,Dynamis Nomos,Arkadia,N1020,2009-10-17,False,2024-01-02 14:05:18,Compliant
+GR0000000315,464323393,EPE,Manufacturing,L,Manufacturers Onoma EPE,Lasithio,N1320,2005-04-25,True,2024-12-04 17:30:12,Somewhat Compliant
+GR0000000316,959629660,IKE,Healthcare,S,Agon Healing Hellenic IKE,Achaia,N0720,2012-01-14,False,2024-02-19 08:13:10,Compliant
+GR0000000317,217326729,AT,Agriculture and Food Production,S,Olive Kairos Mediterranean,Florina,N0340,2020-07-22,False,2024-11-22 12:05:30,Compliant
+GR0000000318,366992705,IKE,Consumer Goods and Retail,M,Consumer Depot IKE,Fthiotida,N0840,2006-01-08,False,2024-02-29 12:50:25,Compliant
+GR0000000319,305718272,EPE,Manufacturing,M,Agora Archon Agon EPE,Kefallonia,N0630,2017-05-24,False,2024-08-29 15:57:42,Compliant
+GR0000000320,304235259,OE,Logistics and Transportation,S,Chronos Techne OE,Fthiotida,N0840,2019-09-12,False,2024-05-15 09:41:34,Somewhat Compliant
+GR0000000321,675832441,IKE,Consumer Goods and Retail,S,Nous Agora Kairos IKE,Florina,N0340,2024-05-12,False,2024-07-17 10:23:56,Somewhat Compliant
+GR0000000322,581695135,IKE,Technology and Innovation,S,Onoma Pneuma IKE,Lasithio,N1320,2010-02-20,False,2024-07-14 13:11:28,Compliant
+GR0000000323,250519597,OE,Energy,M,Hellenic Pathos Athens OE,Ioannina,N0430,2006-07-17,False,2024-01-23 12:28:29,Somewhat Compliant
+GR0000000324,552991960,AT,Technology and Innovation,M,Future Augmented Theoria,Chios,N1130,2016-11-30,False,2024-05-14 11:53:17,Compliant
+GR0000000325,297018781,AT,Energy,M,Pathos Aegean,Magnisia,N0530,2023-10-13,False,2024-10-15 08:09:48,Compliant
+GR0000000326,399085574,IKE,Healthcare,S,Pathos Surgeons IKE,Arkadia,N1020,2017-01-01,False,2024-12-22 09:05:42,Compliant
+GR0000000327,596743109,AT,Financial Services,S,Olympic Mythos Hellenic,Evros,N0120,2015-09-02,False,2024-06-25 16:26:48,Compliant
+GR0000000328,368227631,IKE,Energy,M,Mythos Sophia Pathos IKE,Kastoria,N0320,2002-07-18,False,2024-10-28 11:35:03,Compliant
+GR0000000329,180943908,AT,Manufacturing,S,Archon Ionian,Fokida,N0850,2010-10-18,False,2024-07-17 16:26:34,Compliant
+GR0000000330,575808013,AT,Manufacturing,S,Aion Pathos Aegean,Lasithio,N1320,2002-08-04,False,2024-12-17 15:36:56,Compliant
+GR0000000331,967607278,AT,Consumer Goods and Retail,S,Arete Hypermarket Galleria,Fokida,N0850,2001-04-11,False,2024-04-30 15:19:05,Compliant
+GR0000000332,690907304,AE,Manufacturing,M,Philia Aluminum Craftsmanship AE,Peiraias and islands,N0920,2019-07-07,False,2024-07-21 08:32:36,Compliant
+GR0000000333,205128697,AT,Energy,M,Resources Greek,Evros,N0120,2016-11-25,False,2024-09-21 17:43:39,Compliant
+GR0000000334,154318806,AT,Tourism and Hospitality,S,Olympian Demos Kalon,Aitoloakarnania,N0710,2003-04-03,False,2024-03-16 09:48:28,Compliant
+GR0000000335,800235246,AT,Logistics and Transportation,S,Pathos Zoe,Chios,N1130,2019-04-26,False,2024-03-29 10:13:51,Compliant
+GR0000000336,680451872,EPE,Tourism and Hospitality,S,Theoria Nous EPE,Imathia,N0210,2023-10-15,False,2024-04-08 10:02:27,Compliant
+GR0000000337,997677788,IKE,Technology and Innovation,S,Hermes Binary IKE,Pella,N0240,1997-08-19,False,2024-02-10 14:12:52,Compliant
+GR0000000338,115846122,AT,Logistics and Transportation,M,Episteme Distribution,Pieria,N0250,2018-07-02,False,2024-11-17 10:53:38,Compliant
+GR0000000339,200140141,AT,Manufacturing,S,Pathos Foundry Agora,Achaia,N0720,1996-07-07,False,2024-05-12 13:58:46,Compliant
+GR0000000340,909134796,IKE,Energy,M,Energeia Efficiency Harmonia IKE,Trikala,N0540,1998-05-01,False,2024-02-04 09:24:35,Compliant
+GR0000000341,353810544,AE,Tourism and Hospitality,S,Ethos Aion AE,Lefkada,N0640,2024-12-21,False,2024-07-22 16:20:54,Compliant
+GR0000000342,278575192,AT,Manufacturing,S,Kairos Hestia,Kastoria,N0320,1997-03-04,False,2024-05-21 16:29:58,Compliant
+GR0000000343,536383774,AE,Financial Services,S,Koinonia Management Kairos AE,Pieria,N0250,1995-04-14,False,2024-01-07 17:37:33,Compliant
+GR0000000344,621453189,AT,Tourism and Hospitality,S,Expedition Oasis Zoe,Fthiotida,N0840,2013-06-30,False,2024-08-02 09:26:09,Somewhat Compliant
+GR0000000345,616854671,EPE,Automotive,M,Systems Hellenic EPE,Fokida,N0850,2001-03-01,False,2024-03-16 17:37:37,Compliant
+GR0000000346,329509408,AT,Tourism and Hospitality,M,Sophia Mythos Ionian,Korinthos,N1030,2023-04-16,False,2024-02-21 09:36:49,Compliant
+GR0000000347,530613729,EPE,Energy,S,Solutions Aegean EPE,Larisa,N0520,2005-05-18,False,2024-02-21 12:55:34,Compliant
+GR0000000348,162959284,IKE,Manufacturing,S,Construction Oikos IKE,Florina,N0340,1998-01-17,False,2024-06-25 14:16:24,Compliant
+GR0000000349,276777762,AE,Automotive,S,Energeia Hermes AE,Lefkada,N0640,2001-10-09,False,2024-12-01 15:36:38,Compliant
+GR0000000350,506919288,AT,Automotive,M,Xenia Techne,Arkadia,N1020,1995-05-29,False,2024-08-30 08:11:17,Compliant
+GR0000000351,102314313,IKE,Healthcare,S,Polis Wellness IKE,Kozani,N0330,2004-10-22,False,2024-07-25 10:39:38,Compliant
+GR0000000352,519212169,AE,Technology and Innovation,S,Energeia Ethos Matrix AE,Thessaloniki,N0220,2017-09-06,False,2024-12-14 14:02:25,Compliant
+GR0000000353,384759615,AE,Automotive,M,Athens Nous Repair AE,Samos,N1120,2015-06-15,False,2024-06-18 11:03:47,Compliant
+GR0000000354,941889393,IKE,Agriculture and Food Production,L,Ethos Demeter IKE,Aitoloakarnania,N0710,2011-09-27,False,2024-08-31 12:57:23,Compliant
+GR0000000355,943026227,EPE,Technology and Innovation,M,Doric Ionic Cloud EPE,Kozani,N0330,1997-09-16,False,2024-01-11 13:52:50,Compliant
+GR0000000356,588561518,AT,Tourism and Hospitality,S,Aion Escape Philia,Xanthi,N0140,2022-09-17,False,2024-06-04 12:17:53,Compliant
+GR0000000357,406284028,OE,Financial Services,S,Hellenic Invest OE,Korinthos,N1030,2023-08-09,False,2024-09-08 09:55:14,Somewhat Compliant
+GR0000000358,554200826,AE,Technology and Innovation,S,Interface Helios Archon AE,West Attica,N0940,2024-11-27,False,2024-03-09 12:47:28,Compliant
+GR0000000359,847959430,AT,Technology and Innovation,M,Olympic Future Matrix,Chalkidiki,N0270,2022-08-27,True,2024-06-13 12:46:26,Compliant
+GR0000000360,884374109,IKE,Technology and Innovation,S,Attica Systems Matrix IKE,Chalkidiki,N0270,2016-09-02,False,2024-11-05 09:12:28,Compliant
+GR0000000361,941128035,AE,Agriculture and Food Production,M,Philia Greek Vineyard AE,Korinthos,N1030,2024-07-27,False,2024-04-18 14:47:31,Compliant
+GR0000000362,696751693,IKE,Agriculture and Food Production,S,Praxis Harmonia Food IKE,Ioannina,N0430,2016-11-18,False,2024-09-21 13:52:03,Compliant
+GR0000000363,810678904,AT,Healthcare,L,Vitality Practitioners,Arta,N0410,1995-09-14,True,2024-09-20 10:04:19,Somewhat Compliant
+GR0000000364,871385010,EPE,Automotive,S,Auto Physis Parts EPE,Kefallonia,N0630,1995-04-18,False,2024-12-29 16:25:08,Somewhat Compliant
+GR0000000365,622559454,AT,Technology and Innovation,S,Binary Zoe Informatics,Xanthi,N0140,2018-11-14,False,2024-09-25 17:01:11,Compliant
+GR0000000366,266211829,IKE,Manufacturing,M,Delphi Archon Demos IKE,Fthiotida,N0840,2019-09-29,False,2024-04-08 11:53:03,Compliant
+GR0000000367,303901283,AT,Consumer Goods and Retail,M,Nous Eudaimonia,Fthiotida,N0840,2013-06-13,False,2024-05-07 08:29:03,Compliant
+GR0000000368,418587604,EPE,Logistics and Transportation,L,Sophia Techne EPE,Drama,N0110,1995-07-13,False,2024-07-03 11:17:23,Somewhat Compliant
+GR0000000369,333754555,IKE,Consumer Goods and Retail,M,Store Chronos Greek IKE,Rethymno,N1330,1995-10-01,False,2024-08-25 16:25:40,Compliant
+GR0000000370,162795957,OE,Logistics and Transportation,S,Hub Olympian Onoma OE,Lakonia,N1040,2018-09-29,False,2024-03-04 08:15:23,Compliant
+GR0000000371,721890096,AE,Agriculture and Food Production,L,Plantation Harvest Chronos AE,Samos,N1120,2007-04-28,False,2024-09-07 17:28:11,Somewhat Compliant
+GR0000000372,889991777,EPE,Tourism and Hospitality,M,Retreat Eudaimonia Agon EPE,Kilkis,N0230,2019-01-11,False,2024-08-30 17:35:22,Compliant
+GR0000000373,682177668,AT,Energy,M,Ionian Hellenic,Grevena,N0310,2007-11-10,False,2024-06-25 10:53:57,Compliant
+GR0000000374,165452690,AT,Technology and Innovation,S,Cloud Next Code,Trikala,N0540,1995-10-07,False,2024-05-12 09:18:01,Compliant
+GR0000000375,903132646,EPE,Financial Services,S,Dividend Banking EPE,Kozani,N0330,2017-07-11,False,2024-07-16 08:10:54,Compliant
+GR0000000376,436730606,AT,Energy,S,Arete Demos Psyche,Heraklio,N1310,2014-04-24,False,2024-10-19 11:54:14,Compliant
+GR0000000377,161380746,AT,Consumer Goods and Retail,M,Distributor Products Mall,Karditsa,N0510,2003-01-15,False,2024-11-27 11:43:13,Somewhat Compliant
+GR0000000378,153839920,AE,Automotive,S,Physis Hellenic Kosmos AE,Arkadia,N1020,1999-10-19,False,2024-05-17 14:32:01,Somewhat Compliant
+GR0000000379,727255918,IKE,Energy,M,Poseidon Physis Episteme IKE,Imathia,N0210,1999-04-27,False,2024-12-15 08:30:58,Somewhat Compliant
+GR0000000380,611947770,AT,Technology and Innovation,M,Nous Pathos Agile,Lakonia,N1040,2018-07-09,False,2024-03-08 10:38:51,Compliant
+GR0000000381,639931481,AT,Manufacturing,M,Xenia Kairos,Aitoloakarnania,N0710,2001-09-04,False,2024-01-05 11:16:38,Compliant
+GR0000000382,670292350,EPE,Tourism and Hospitality,S,Mediterranean Episteme Dynamis EPE,Lakonia,N1040,2005-10-22,False,2024-06-05 12:27:57,Compliant
+GR0000000383,269042105,AT,Consumer Goods and Retail,M,Hestia Seller,Karditsa,N0510,2003-08-10,True,2024-07-11 13:29:16,Compliant
+GR0000000384,161073976,IKE,Tourism and Hospitality,S,Ionian Mediterranean Pathos IKE,Kavala,N0130,2022-10-19,False,2024-04-21 15:19:43,Compliant
+GR0000000385,645276696,AT,Healthcare,S,Surgeons Episteme Pneuma,Lefkada,N0640,2018-08-12,False,2024-09-23 17:25:37,Compliant
+GR0000000386,186019028,EPE,Technology and Innovation,L,Athena Nous Secure EPE,Fokida,N0850,2006-04-27,True,2024-02-22 08:32:42,Compliant
+GR0000000387,299528037,AT,Logistics and Transportation,S,Distribution Kosmos Theoria,Kerkyra,N0620,2010-11-24,False,2024-07-10 16:41:38,Compliant
+GR0000000388,173574218,AT,Financial Services,S,Analysis Praxis Trust,Chios,N1130,2006-12-27,False,2024-11-07 12:19:43,Compliant
+GR0000000389,738914080,AT,Healthcare,S,Nous Kosmos,Thessaloniki,N0220,2012-10-19,False,2024-02-25 15:04:21,Somewhat Compliant
+GR0000000390,172972420,AE,Financial Services,S,Wealth Fiscal AE,Fthiotida,N0840,1998-07-17,False,2024-05-21 13:55:17,Somewhat Compliant
+GR0000000391,825003955,AT,Manufacturing,M,Mediterranean Industrial Delphi,Kyklades,N1210,2011-09-25,False,2024-05-13 12:12:09,Compliant
+GR0000000392,352548261,AE,Automotive,S,Sophia Polis AE,Korinthos,N1030,2013-03-18,False,2024-09-21 11:57:03,Compliant
+GR0000000393,533550699,AE,Logistics and Transportation,S,Praxis Carrier AE,Rethymno,N1330,2015-08-03,False,2024-11-03 14:42:20,Compliant
+GR0000000394,228727266,OE,Agriculture and Food Production,M,Physis Dynamis Aegean OE,Samos,N1120,2020-05-04,False,2024-12-14 10:46:01,Compliant
+GR0000000395,711684318,AT,Automotive,S,Hestia Sophia,Lesvos,N1110,2005-11-27,False,2024-12-01 15:18:16,Somewhat Compliant
+GR0000000396,364371717,OE,Agriculture and Food Production,S,Ethos Authentic Nutrition OE,Grevena,N0310,2005-02-16,False,2024-08-02 14:24:47,Compliant
+GR0000000397,721609600,AT,Technology and Innovation,M,Data Binary,Kerkyra,N0620,2008-06-14,False,2024-01-19 17:45:36,Compliant
+GR0000000398,738360085,OE,Technology and Innovation,M,Xenia Pathos Basileus OE,Euritania,N0830,1998-08-12,False,2024-04-07 13:46:45,Compliant
+GR0000000399,142672287,IKE,Manufacturing,M,Engineering Oikos IKE,Thesprotia,N0420,2024-04-27,False,2024-04-23 16:40:50,Compliant
+GR0000000400,765055833,AT,Financial Services,M,Onoma Management,Evia,N0820,2024-02-24,False,2024-08-31 13:32:19,Somewhat Compliant
+GR0000000401,188029013,AT,Logistics and Transportation,S,Supply Delivery Courier,Dodekanisa,N1220,1996-06-02,False,2024-03-28 16:11:18,Compliant
+GR0000000402,550139320,AT,Tourism and Hospitality,S,Philia Retreat,Rethymno,N1330,1999-03-11,False,2024-02-19 15:08:47,Compliant
+GR0000000403,805849060,OE,Automotive,S,Hermes Pathos Techne OE,Dodekanisa,N1220,2013-03-06,False,2024-05-12 16:48:58,Compliant
+GR0000000404,726713347,EPE,Energy,M,Kalon Hestia EPE,Ilia,N0730,2012-01-04,False,2024-04-03 13:41:05,Compliant
+GR0000000405,706907788,AE,Logistics and Transportation,S,Line Transit Flow AE,Chalkidiki,N0270,2011-12-01,False,2024-04-23 13:14:47,Compliant
+GR0000000406,661333669,AT,Tourism and Hospitality,L,Ecclesia Experience Santorini,Achaia,N0720,2019-10-16,True,2024-06-06 14:50:56,Somewhat Compliant
+GR0000000407,439699535,OE,Consumer Goods and Retail,S,Emporium Warehouse OE,Serres,N0260,2016-05-07,False,2024-06-18 13:16:37,Compliant
+GR0000000408,379995032,IKE,Agriculture and Food Production,M,Produce Techne Kalon IKE,Kerkyra,N0620,1997-07-07,False,2024-05-30 15:54:07,Compliant
+GR0000000409,319321646,AT,Consumer Goods and Retail,M,Xenia Kalon Marketplace,Ilia,N0730,2023-07-24,False,2024-08-28 08:55:40,Compliant
+GR0000000410,819112790,AE,Agriculture and Food Production,M,Greek Arete AE,Larisa,N0520,1995-06-03,False,2024-10-25 17:39:04,Compliant
+GR0000000411,869005091,OE,Automotive,S,Archon Hestia Koinonia OE,Rethymno,N1330,2002-09-07,False,2024-08-29 11:32:07,Compliant
+GR0000000412,437352358,IKE,Tourism and Hospitality,M,Paideia Aegean Mykonos IKE,Arta,N0410,1998-09-15,False,2024-12-14 14:33:19,Non-Compliant
+GR0000000413,356287095,IKE,Agriculture and Food Production,S,Aegean Energeia Xenia IKE,Fthiotida,N0840,2017-06-02,False,2024-07-30 08:55:54,Compliant
+GR0000000414,385201412,AT,Technology and Innovation,S,Athens Archon Paideia,West Attica,N0940,2014-06-18,False,2024-03-18 10:12:21,Somewhat Compliant
+GR0000000415,524971817,AT,Agriculture and Food Production,S,Cultivation Episteme,Lakonia,N1040,2023-12-05,False,2024-07-28 17:57:58,Compliant
+GR0000000416,240529481,IKE,Financial Services,M,Acropolis Aion IKE,Heraklio,N1310,2009-11-09,False,2024-08-22 10:20:55,Compliant
+GR0000000417,821221887,IKE,Logistics and Transportation,M,Line Movement IKE,Euritania,N0830,2020-05-18,False,2024-04-02 09:31:21,Compliant
+GR0000000418,793101194,AT,Tourism and Hospitality,M,Pathos Experience,Samos,N1120,1999-04-11,False,2024-11-19 10:20:40,Compliant
+GR0000000419,422119408,IKE,Manufacturing,M,Agon Creator Crete IKE,Kerkyra,N0620,2018-09-09,True,2024-01-30 08:28:17,Compliant
+GR0000000420,590941149,AT,Automotive,S,Mechanical Nomos Technologies,Lesvos,N1110,1996-11-27,False,2024-04-17 10:36:48,Compliant
+GR0000000421,439492674,AE,Automotive,M,Ecclesia Performance AE,Athens,N0910,2005-04-21,True,2024-03-22 15:50:48,Compliant
+GR0000000422,907308348,OE,Financial Services,L,Portfolio Paideia OE,Achaia,N0720,2004-06-24,True,2024-02-15 10:39:27,Non-Compliant
+GR0000000423,177892576,IKE,Consumer Goods and Retail,L,Nomos Consumer Goods IKE,Zakynthos,N0610,2020-06-03,True,2024-11-20 14:25:27,Compliant
+GR0000000424,110002396,AT,Energy,S,Electric Onoma,Chalkidiki,N0270,2016-04-29,False,2024-09-01 14:00:02,Compliant
+GR0000000425,592080329,AT,Tourism and Hospitality,M,Sanctuary Paideia Koinonia,Lasithio,N1320,2007-02-27,False,2024-09-30 11:46:23,Compliant
+GR0000000426,766964667,AT,Automotive,S,Demos Mythos,Rodopi,N0150,1997-01-31,False,2024-01-08 13:48:53,Compliant
+GR0000000427,704509817,AT,Healthcare,S,Physicians Xenia Development,Pieria,N0250,1998-05-02,False,2024-09-28 11:01:43,Somewhat Compliant
+GR0000000428,207354053,IKE,Manufacturing,S,Artisan Koinonia Marathon IKE,Florina,N0340,2007-07-29,False,2024-01-03 11:14:44,Compliant
+GR0000000429,178663096,IKE,Technology and Innovation,M,Hermes Nous IKE,Mesinia,N1050,2019-05-11,False,2024-06-25 12:08:06,Non-Compliant
+GR0000000430,677280546,IKE,Tourism and Hospitality,S,Agon Eudaimonia Sanctuary IKE,Kefallonia,N0630,2020-04-10,False,2024-07-15 16:37:19,Compliant
+GR0000000431,328872698,AE,Manufacturing,S,Onoma Machinery Producers AE,Preveza,N0440,2024-07-08,False,2024-03-26 09:52:02,Compliant
+GR0000000432,643189555,AT,Tourism and Hospitality,L,Chronos Agora Mykonos,Lasithio,N1320,1996-06-22,False,2024-06-01 12:29:46,Compliant
+GR0000000433,384756779,IKE,Automotive,M,Gaia Onoma Ionian IKE,Drama,N0110,2003-01-16,False,2024-09-23 17:33:21,Compliant
+GR0000000434,242224154,OE,Manufacturing,M,Foundry Episteme Production OE,Lakonia,N1040,2009-02-07,True,2024-08-10 10:21:57,Compliant
+GR0000000435,474745382,AT,Consumer Goods and Retail,M,Energeia Depot Bazaar,Kavala,N0130,1995-09-13,False,2024-09-07 13:48:12,Compliant
+GR0000000436,173864104,AE,Financial Services,L,Securities Holdings AE,Kerkyra,N0620,2004-04-16,True,2024-03-25 14:01:14,Compliant
+GR0000000437,362298393,EPE,Agriculture and Food Production,M,Zoe Oikos Nutrition EPE,Florina,N0340,2021-04-30,False,2024-04-24 10:13:46,Non-Compliant
+GR0000000438,496776692,EPE,Consumer Goods and Retail,M,Logos Onoma EPE,Kilkis,N0230,2001-06-19,True,2024-01-12 17:32:10,Compliant
+GR0000000439,406002884,IKE,Manufacturing,L,Aluminum Textile Xenia IKE,Fokida,N0850,2012-11-11,False,2024-03-04 13:45:41,Compliant
+GR0000000440,269379374,AE,Technology and Innovation,M,Dynamis Progressive Cyber AE,Magnisia,N0530,1998-06-13,False,2024-01-20 14:56:40,Compliant
+GR0000000441,570497096,AT,Financial Services,M,Chronos Xenia,Thesprotia,N0420,2008-06-03,False,2024-05-10 16:39:03,Non-Compliant
+GR0000000442,995226828,AT,Agriculture and Food Production,M,Fishery Dairy Paideia,Dodekanisa,N1220,2002-04-14,False,2024-10-31 08:42:06,Compliant
+GR0000000443,683275843,AT,Automotive,S,Hellenic Designs Demos,Argolida,N1010,2020-04-17,False,2024-11-30 08:03:44,Compliant
+GR0000000444,855420240,AE,Financial Services,M,Management Archon Capital AE,Thessaloniki,N0220,2005-10-13,False,2024-02-29 14:28:24,Compliant
+GR0000000445,424825305,IKE,Agriculture and Food Production,S,Episteme Plantation IKE,Xanthi,N0140,2020-06-01,False,2024-03-04 16:16:30,Compliant
+GR0000000446,756783995,IKE,Healthcare,S,Kosmos Nous Therapeutic IKE,Kastoria,N0320,2012-06-14,False,2024-12-25 10:13:44,Non-Compliant
+GR0000000447,966616964,AT,Technology and Innovation,S,Systems Demos Basileus,West Attica,N0940,2019-03-31,False,2024-12-17 08:19:26,Compliant
+GR0000000448,802201721,AT,Automotive,S,Sophia Nomos,Magnisia,N0530,2009-11-17,False,2024-12-04 09:42:33,Compliant
+GR0000000449,667945747,AE,Logistics and Transportation,M,Mediterranean Sophia Archon AE,Kavala,N0130,2012-03-19,False,2024-05-18 17:38:44,Compliant
+GR0000000450,108399996,AT,Healthcare,S,Harmonia Professionals Theoria,Kilkis,N0230,2001-04-10,False,2024-03-11 14:53:57,Compliant
+GR0000000451,817112652,AE,Agriculture and Food Production,M,Cultivation Demeter AE,Kerkyra,N0620,1998-07-07,False,2024-02-23 16:46:39,Compliant
+GR0000000452,977358886,AT,Energy,L,Physis Kairos Mythos,Pieria,N0250,2017-06-17,True,2024-03-01 12:07:50,Compliant
+GR0000000453,695499669,EPE,Automotive,S,Motion Mechanical Gaia EPE,Korinthos,N1030,2010-07-06,False,2024-02-24 15:12:38,Compliant
+GR0000000454,421455482,AT,Financial Services,S,Xenia Banking Asset,Rodopi,N0150,1997-05-28,False,2024-04-12 12:53:33,Compliant
+GR0000000455,812308209,AT,Energy,S,Resources Theoria Demos,Heraklio,N1310,1999-05-19,False,2024-04-13 13:45:26,Somewhat Compliant
+GR0000000456,211225158,IKE,Tourism and Hospitality,M,Pathos Logos IKE,Rodopi,N0150,2014-08-09,False,2024-05-31 10:02:35,Compliant
+GR0000000457,244193987,AT,Tourism and Hospitality,M,Polis Arete,Ioannina,N0430,2005-05-30,False,2024-09-11 11:44:59,Compliant
+GR0000000458,383968123,EPE,Manufacturing,S,Eudaimonia Aion Basileus EPE,Kastoria,N0320,1998-05-29,False,2024-09-03 13:15:00,Compliant
+GR0000000459,223940587,OE,Agriculture and Food Production,S,Nomos Wholesome Eudaimonia OE,Lefkada,N0640,2010-04-11,False,2024-01-07 09:58:07,Compliant
+GR0000000460,214929002,IKE,Logistics and Transportation,L,Techne Logos IKE,Peiraias and islands,N0920,2022-02-22,False,2024-10-20 15:09:05,Somewhat Compliant
+GR0000000461,897163846,AT,Consumer Goods and Retail,L,Oikos Paideia,Karditsa,N0510,2022-07-14,False,2024-09-18 09:46:46,Compliant
+GR0000000462,694019365,AE,Technology and Innovation,M,Onoma Data Hestia AE,Achaia,N0720,2021-09-18,False,2024-02-21 12:41:14,Compliant
+GR0000000463,266910922,IKE,Consumer Goods and Retail,S,Supplier Paideia Onoma IKE,Kilkis,N0230,2012-10-16,False,2024-08-21 12:16:29,Compliant
+GR0000000464,392431670,AE,Agriculture and Food Production,S,Crop Paideia AE,Xanthi,N0140,2009-08-21,False,2024-01-26 09:52:11,Compliant
+GR0000000465,402533494,AT,Logistics and Transportation,L,Movement Ecclesia Zoe,Peiraias and islands,N0920,1996-04-29,True,2024-01-21 12:23:51,Compliant
+GR0000000466,749431082,AT,Manufacturing,S,Machinery Workshop Mediterranean,Pieria,N0250,2023-06-11,False,2024-12-12 13:27:47,Compliant
+GR0000000467,326161867,IKE,Agriculture and Food Production,L,Fruits Food IKE,Kozani,N0330,2007-04-05,False,2024-02-29 09:54:48,Compliant
+GR0000000468,870530217,AE,Healthcare,S,Consultants Polis Healing AE,Lakonia,N1040,2015-03-17,False,2024-01-24 08:54:08,Compliant
+GR0000000469,468164906,AT,Consumer Goods and Retail,L,Center Agora Basileus,Peiraias and islands,N0920,2017-01-02,True,2024-12-05 10:21:22,Compliant
+GR0000000470,318610946,AE,Tourism and Hospitality,S,Hellenic Escape Gaia AE,Ilia,N0730,2005-03-25,False,2024-08-12 17:17:56,Somewhat Compliant
+GR0000000471,838194420,IKE,Tourism and Hospitality,L,Nomos Pathos IKE,Arta,N0410,2010-12-16,True,2024-02-17 13:52:21,Compliant
+GR0000000472,781007818,AT,Financial Services,S,Agon Kairos Associates,Rodopi,N0150,2019-10-21,False,2024-04-03 09:25:25,Compliant
+GR0000000473,383450553,AE,Consumer Goods and Retail,L,Philia Harmonia AE,Florina,N0340,2011-11-02,False,2024-08-21 12:53:24,Compliant
+GR0000000474,642678844,IKE,Logistics and Transportation,L,Harmonia Kosmos Link IKE,Lesvos,N1110,2014-05-15,True,2024-12-19 15:51:26,Compliant
+GR0000000475,624557080,AE,Technology and Innovation,S,Pixel Virtual Connected AE,Xanthi,N0140,2003-05-01,False,2024-11-28 10:07:08,Somewhat Compliant
+GR0000000476,369639388,EPE,Healthcare,S,Pharmacy Physicians Experts EPE,Viotia,N0810,2021-04-11,False,2024-12-22 08:54:10,Non-Compliant
+GR0000000477,154544899,AT,Financial Services,S,Energeia Associates,Lakonia,N1040,2024-08-19,False,2024-02-23 14:58:37,Compliant
+GR0000000478,199104722,AE,Healthcare,L,Pathos Hestia Professionals AE,Thessaloniki,N0220,2012-01-18,False,2024-09-04 17:43:28,Compliant
+GR0000000479,781057736,AT,Financial Services,S,Acropolis Harmonia Basileus,Magnisia,N0530,1998-11-04,False,2024-04-02 17:24:49,Compliant
+GR0000000480,554811020,AT,Manufacturing,S,Techne Ethos Machinery,Chania,N1340,2022-09-30,False,2024-07-02 17:01:55,Compliant
+GR0000000481,990505735,OE,Technology and Innovation,S,Software Future Informatics OE,Samos,N1120,2008-03-31,False,2024-12-16 10:30:58,Compliant
+GR0000000482,397083132,AT,Consumer Goods and Retail,M,Dynamis Distributor Aion,Pieria,N0250,2006-01-19,False,2024-09-06 09:56:26,Compliant
+GR0000000483,147337803,AE,Logistics and Transportation,S,Supply Gaia AE,Lakonia,N1040,1998-04-18,False,2024-08-13 08:04:16,Compliant
+GR0000000484,103807155,AT,Technology and Innovation,S,Basileus Smart Ionic,Imathia,N0210,1998-09-05,False,2024-12-01 13:00:45,Non-Compliant
+GR0000000485,458153605,IKE,Financial Services,M,Onoma Kalon IKE,Chalkidiki,N0270,2007-01-07,False,2024-12-13 16:49:47,Somewhat Compliant
+GR0000000486,927982963,AT,Technology and Innovation,S,Virtual Systems,Magnisia,N0530,2001-11-30,False,2024-10-22 17:14:42,Compliant
+GR0000000487,240466536,AT,Consumer Goods and Retail,M,Mart Trade,Thesprotia,N0420,2012-01-16,False,2024-06-22 16:33:44,Compliant
+GR0000000488,784095277,AE,Manufacturing,S,Sophia Developers AE,Heraklio,N1310,2023-06-07,False,2024-12-24 17:06:27,Compliant
+GR0000000489,381272327,AT,Manufacturing,S,Hellenic Metals Hellas,Thessaloniki,N0220,2001-12-01,False,2024-12-04 11:30:22,Compliant
+GR0000000490,273497327,AT,Agriculture and Food Production,S,Agora Eudaimonia,Arkadia,N1020,2012-06-22,False,2024-12-05 14:09:53,Compliant
+GR0000000491,895890631,IKE,Manufacturing,S,Fabrication Creator Manufacturers IKE,Trikala,N0540,2009-03-15,False,2024-10-12 17:03:00,Compliant
+GR0000000492,574417266,AT,Tourism and Hospitality,M,Hellenic Athens Paideia,Chios,N1130,2011-03-06,True,2024-11-25 10:32:54,Non-Compliant
+GR0000000493,692362342,IKE,Healthcare,L,Ecclesia Pharma IKE,Grevena,N0310,1999-10-11,True,2024-08-28 15:55:10,Somewhat Compliant
+GR0000000494,857704655,AT,Logistics and Transportation,S,Agora Flow,Korinthos,N1030,1999-02-07,False,2024-02-08 15:20:15,Compliant
+GR0000000495,559225330,AT,Consumer Goods and Retail,S,Psyche Archon,Zakynthos,N0610,1995-03-26,False,2024-06-18 12:03:32,Compliant
+GR0000000496,702269164,AT,Healthcare,L,Practitioners Pharma,Imathia,N0210,2008-10-28,False,2024-04-24 16:41:24,Compliant
+GR0000000497,110382761,AE,Logistics and Transportation,M,Line Mythos AE,Ioannina,N0430,2014-12-12,False,2024-07-25 11:05:29,Compliant
+GR0000000498,220123666,IKE,Manufacturing,L,Developers Creator IKE,Lasithio,N1320,2011-02-21,True,2024-08-15 17:28:05,Compliant
+GR0000000499,180792472,AE,Consumer Goods and Retail,S,Hestia Gaia Archon AE,Florina,N0340,2007-02-05,False,2024-09-12 15:20:07,Compliant
+GR0000000500,841976666,AT,Financial Services,M,Xenia Koinonia,Achaia,N0720,1999-08-01,False,2024-09-11 08:06:25,Compliant
