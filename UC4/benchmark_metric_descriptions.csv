@@ -4,9 +4,9 @@ effective_tax_rate;The actual tax rate paid on operating profit, calculated as (
 statutory_tax_rate;The nominal tax rate before credits, calculated as (Tax Liability / Taxable Profit) * 100. This represents the standard tax rate that should apply based on taxable profit.
 tax_credit_impact;The difference between statutory and effective tax rates, showing how tax credits reduce the tax burden. Unusually large differences may indicate excessive tax credit usage.
 input_output_ratio;The ratio of VAT deducted to VAT collected, calculated as Total VAT Deducted / Total VAT Collected. Ratios significantly higher than industry norms may indicate over-claiming of input VAT.
-labor_cost_ratio;The percentage of revenue spent on labor costs, calculated as (Labor Costs / Revenue) * 100. Unusually low values may indicate underreported labor costs or off-the-books employment.
+labour_cost_ratio;The percentage of revenue spent on labor costs, calculated as (Labor Costs / Revenue) * 100. Unusually low values may indicate underreported labor costs or off-the-books employment.
 revenue_per_employee;The average revenue generated per employee, calculated as Revenue / Employee Count. Significantly higher values than industry peers may indicate underreporting of employee numbers.
-credit_utilization_ratio;The percentage of tax liability offset by tax credits, calculated as (Tax Credits Claimed / Tax Liability) * 100. High values indicate aggressive use of tax credits to reduce tax liability.
+credit_utilisation_ratio;The percentage of tax liability offset by tax credits, calculated as (Tax Credits Claimed / Tax Liability) * 100. High values indicate aggressive use of tax credits to reduce tax liability.
 vat_income_consistency;The percentage difference between income reported for income tax and VAT purposes, calculated as |(Total Revenue / Total Annual Sales) - 1| * 100. Values above 5% indicate potential inconsistent reporting.
 tax_savings_ratio;The ratio of theoretical tax to actual tax paid, calculated as (Theoretical Tax / Actual Tax Paid). Higher values indicate more effective tax reduction strategies.
 book_tax_gap;The normalized difference between financial accounting profit and taxable income, calculated as (|Gross Profit - Operating Profit| / |Gross Profit|) * 100. Larger gaps indicate greater divergence between financial and tax reporting.
