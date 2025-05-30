@@ -8,7 +8,7 @@ labor_cost_ratio;The percentage of revenue spent on labor costs, calculated as (
 revenue_per_employee;The average revenue generated per employee, calculated as Revenue / Employee Count. Significantly higher values than industry peers may indicate underreporting of employee numbers.
 credit_utilization_ratio;The percentage of tax liability offset by tax credits, calculated as (Tax Credits Claimed / Tax Liability) * 100. High values indicate aggressive use of tax credits to reduce tax liability.
 vat_income_consistency;The percentage difference between income reported for income tax and VAT purposes, calculated as |(Total Revenue / Total Annual Sales) - 1| * 100. Values above 5% indicate potential inconsistent reporting.
-tax_savings_ratio;The ratio of theoretical tax to actual tax paid, calculated as (Theoretical Tax / Actual Tax Paid) * 100. Higher values indicate more effective tax reduction strategies.
+tax_savings_ratio;The ratio of theoretical tax to actual tax paid, calculated as (Theoretical Tax / Actual Tax Paid). Higher values indicate more effective tax reduction strategies.
 book_tax_gap;The normalized difference between financial accounting profit and taxable income, calculated as (|Gross Profit - Operating Profit| / |Gross Profit|) * 100. Larger gaps indicate greater divergence between financial and tax reporting.
 filing_compliance_rate;The percentage of tax filings submitted on time, calculated as (Number of On-Time Filings / Total Filings) × 100%. Lower rates indicate poor filing compliance behavior.
 payment_compliance_rate;The percentage of tax obligations paid on time, calculated as (On-Time Payments Amount / Total Payment Obligations) × 100%. Lower rates indicate poor payment compliance behavior.
