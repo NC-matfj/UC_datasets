@@ -1,4 +1,4 @@
 ID,Name,Address,Type,Country,Opening Hours
-CO000003,Toldekspedition Københavns Lufthavn,"Ankomsthallen, 2770 Kastrup",Customs Office,Denmark,"07:30-16:30"
+CO000003,Toldekspedition Københavns Lufthavn,"Ankomsthallen, 2770 Kastrup",Customs Office,Denmark,"00:00-23:59"
 CO000002,Toldekspedition Frederikshavn,"Færgehavnsvej 31, 9900 Frederikshavn",Customs Office,Denmark,"08:00-16:00"
-CO000001,Toldekspedition Østhavnen,"Østhavnsvej 31, 8000 Aarhus C",Customs Office,Denmark,"00:00-23:59"
+CO000001,Toldekspedition Østhavnen,"Østhavnsvej 31, 8000 Aarhus C",Customs Office,Denmark,"07:30-16:30"
